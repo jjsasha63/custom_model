@@ -5,11 +5,11 @@
     "default_loras": [
         [
             "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
-            0.25
+            0.2
         ],
         [
             "SOAP_LoRA.safetensors",
-            0.5
+            0.4
         ],
         [
             "None",
