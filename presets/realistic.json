@@ -8,8 +8,8 @@
             0.25
         ],
         [
-            "None",
-            1.0
+            "SOAP_LoRA.safetensors",
+            0.5
         ],
         [
             "None",
@@ -42,6 +42,7 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors"
+        "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
+        "SOAP_LoRA.safetensors": "https://civitai.com/api/download/models/144929?type=Model&format=SafeTensor"
     }
 }
