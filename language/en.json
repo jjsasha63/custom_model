@@ -271,6 +271,7 @@
     "realisticStockPhoto_v10.safetensors": "realisticStockPhoto_v10.safetensors",
     "realisticVisionV51_v51VAE.safetensors": "realisticVisionV51_v51VAE.safetensors",
     "sd_xl_refiner_1.0_0.9vae.safetensors": "sd_xl_refiner_1.0_0.9vae.safetensors",
+    "SOAP_LoRA.safetensors": "SOAP_LoRA.safetensors",
     "Refiner (SDXL or SD 1.5)": "Refiner (SDXL or SD 1.5)",
     "None": "None",
     "LoRAs": "LoRAs",
