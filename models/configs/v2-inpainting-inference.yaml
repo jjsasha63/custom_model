@@ -74,7 +74,7 @@ data:
     p_unsafe_threshold: 0.1
     filter_word_list: "data/filters.yaml"
     max_pwatermark: 0.45
-    batch_size: 8
+    batch_size: 5
     num_workers: 6
     multinode: True
     min_size: 512
